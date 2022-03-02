@@ -10,6 +10,7 @@ Proud to be a **french** student, proud to be **me**
 > HOBBIES & INTERESTS 🌌
 
 - Besides my education, I feel really amazed by the astronomy and cosmology fields. My true dream is to work one day on some concreate AI - astro related problems.
+- I've played Soccer (Football) and Badminton for a total of 12 years and it trained me for sure to keep my focus even in hard times
 
 > SKILLS 🐳
 
