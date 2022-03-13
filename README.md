@@ -5,7 +5,7 @@ Proud to be a **french** student, proud to be **me**
 > EDUCATION 🧑🏻‍🏫
 
 - I'm currently enrolled in a Mathematics and Computer Science Applied to Human and Social Sciences specialized in Cognitive Sciences BSc.
-- My real aim is advanced AI (Deep Learning) and its applications to concrete world problems and that's why I'm heading towards a NLP MSc. starting from the next year.
+- My real aim is advanced AI (Deep Learning) and its applications to concrete world problems and that's why I'm heading towards a NLP or Cognitive Sciences MSc. starting from the next year.
 
 > HOBBIES & INTERESTS 🌌
 
