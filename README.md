@@ -29,6 +29,7 @@ Proud to be a **french** student, proud to be **me**
   - PHP, Laravel
   - HTML/CSS, Javascript
   - Anaconda, Google Colab
+  - Software engineering
 - Project Management
   - Collecting needs
   - Digital innovation
