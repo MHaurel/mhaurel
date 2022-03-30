@@ -1,6 +1,6 @@
 ### Hi there / Bonjour 👋
 
-Proud to be a **french** student, proud to be **me**
+Proud to be a **french** student
 
 > EDUCATION 🧑🏻‍🏫
 
