@@ -36,3 +36,10 @@ Proud to be a **french** student, proud to be **me**
   - Business analysis
   - Agile methods
   - Risks analysis
+ - Human Knowledge & Modelisation
+  - Modeling in psychology
+  - Collective phenomena in biology
+  - Behavioral analysis
+  - Experimental psychology methods
+  - Intelligent & collective agents
+  - Ergonomics & UX
