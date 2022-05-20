@@ -11,6 +11,8 @@ Proud to be a **french** student
 
 - Besides my education, I feel really amazed by the astronomy and cosmology fields. My true dream is to work one day on some concreate AI - astro related problems.
 - I've played Soccer (Football) and Badminton for a total of 12 years and it trained me for sure to keep my focus even in hard times
+- Smart cities 🏙️
+- Reinforcement Learning
 
 > SKILLS 🐳
 
@@ -19,8 +21,8 @@ Proud to be a **french** student
 - Artificial Intelligence : 
   - Knowledge-based systems
   - Machine Learning : Random Forest, Linear Regression, Clustering
-  - Natural Language Processing : Word Embeddings (Word2Vec)
-  - NLTK, pandas, scikit-learn, pyTorch
+  - Natural Language Processing : Word Embeddings (Word2Vec), RNN
+  - NLTK, pandas, scikit-learn, pyTorch, Tensorflow, numpy
   - Neural Networks
 - Programming
   - Python
