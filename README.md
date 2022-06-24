@@ -4,13 +4,13 @@ Proud to be a **french** student
 
 > EDUCATION 🧑🏻‍🏫
 
-- I'm currently enrolled in a Mathematics and Computer Science Applied to Human and Social Sciences specialized in Cognitive Sciences BSc.
-- My real aim is advanced AI (Deep Learning) and its applications to concrete world problems and that's why I'm heading towards a NLP or Cognitive Sciences MSc. starting from 2022.
+- I'm heading towards a Cognitive Sciences MSc. specialized in Cognitive Engineering, Interaction and Artificial Intelligence
+- My real aim is to work on applied AI in the fields of medecine, neuroscience, etc.
 
 > HOBBIES & INTERESTS 🌌
 
-- Besides my education, I feel really amazed by the astronomy and cosmology fields. My true dream is to work one day on some concreate AI - astro related problems.
-- I've played Soccer (Football) and Badminton for a total of 12 years and it trained me for sure to keep my focus even in hard times
+- Besides my education, I feel really amazed by the astronomy and cosmology fields.
+- Sports
 - Smart cities 🏙️
 - Reinforcement Learning
 
