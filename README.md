@@ -9,9 +9,9 @@ Proud to be a **french** student
 
 > HOBBIES & INTERESTS 🌌
 
-- Besides my education, I feel really amazed by the astronomy and cosmology fields.
-- Sports
-- Smart cities 🏙️
+- Astronomy & Cosmology
+- Healthcare
+- Neurosciences
 - Reinforcement Learning
 
 > SKILLS 🐳
